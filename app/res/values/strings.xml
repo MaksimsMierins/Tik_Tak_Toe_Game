@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="homeTitle">My Tik Tak Toe application</string>
+    <string name="platButton">Play With Friend</string>
+    <string name="platBotButton">Play VS Bot</string>
+
+    <string name="PlaygraundTitle"> Enter your name</string>
+    <string name="Lable1"> Player 1 (X)</string>
+    <string name="Lable2">Player 2 (O)</string>
+    <string name="CreateName"> Enter your Name</string>
+    <string name="SubmitionButton"> Submit Names</string>
+
+    <string name="PlayAgainButton"> Play Again</string>
+    <string name="HomeButton"> Home</string>
+    <string name="AchievementsButton"> Achievements</string>
+    <string name="ResetButton"> Reset Achievements</string>
+
+    <string name="Achievement1"> Play your 1-st game!</string>
+    <string name="Achievement2"> Play agenst Bot 1-st Time!</string>
+    <string name="Achievement3"> Play vith Friend 1-st Time</string>
+    <string name="Achievement4"> Won ageinst BOT!</string>
+    <string name="Achievement5"> Lose agenst BOT</string>
+    <string name="Achievement6"> All Achievements are unlocked!</string>
+    <string name="AchievementHiden"> ... </string>
+    <string name="AchievementUnlocked">Achievement unlocked!</string>
+
+    <string name="Achievement1Description">Congratulations, you played your first game</string>
+    <string name="Achievement2Description">Not easy?</string>
+    <string name="Achievement3Description">Together you can have twice more fun!</string>
+    <string name="Achievement4Description">Human better than machen!</string>
+    <string name="Achievement5Description">Can not win everything</string>
+    <string name="Achievement6Description">Nice!</string>
+</resources>

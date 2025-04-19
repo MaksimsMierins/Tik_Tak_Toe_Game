@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Tik_Tak_Toe_Board">
+        <attr name="boardColor" format="color"/>
+        <attr name="xColor" format="color"/>
+        <attr name="yColor" format="color"/>
+        <attr name="WonColor" format="color"/>
+    </declare-styleable>
+</resources>
